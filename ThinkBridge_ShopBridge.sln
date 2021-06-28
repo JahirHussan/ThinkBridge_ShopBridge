@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1525
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkBridge_ShopBridge", "ThinkBridge_ShopBridge\ThinkBridge_ShopBridge.csproj", "{D10FACA4-C082-4965-A22C-5F875B40AB82}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ThinkBridge", "ThinkBridge\ThinkBridge.sqlproj", "{1DAB01F9-A425-451A-B5F2-241687F024FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{D10FACA4-C082-4965-A22C-5F875B40AB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D10FACA4-C082-4965-A22C-5F875B40AB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D10FACA4-C082-4965-A22C-5F875B40AB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAB01F9-A425-451A-B5F2-241687F024FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAB01F9-A425-451A-B5F2-241687F024FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAB01F9-A425-451A-B5F2-241687F024FC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1DAB01F9-A425-451A-B5F2-241687F024FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAB01F9-A425-451A-B5F2-241687F024FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAB01F9-A425-451A-B5F2-241687F024FC}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
